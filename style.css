@@ -2,5 +2,21 @@ body{
     background-color: bisque;
 }
 h1{
+    border: 2px dashed aqua;
     color: blue;
+    text-align: center;
+}
+div{
+    border: 5px solid ;
+    border-color: rgb(141, 135, 135);
+    border-radius: 5px;
+}
+div h2{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+div p{
+    margin: 15px;
+    font-size: x-large;
 }
